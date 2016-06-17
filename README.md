@@ -1,6 +1,6 @@
 # JSON to text 
 
-This is an experimental Python script that will convert JSON outputs from courtlistener.com into a directory of text files.  This directory will then be suitable for ingesting into topic-mapping software such as the Stanford Natural Language Processing Group's Topic Modeling Tool. 
+This is an experimental Python script that will convert JSON outputs from courtlistener.com into a directory of text files.  This directory will then be suitable for ingesting into topic-modeling software such as the Stanford Natural Language Processing Group's Topic Modeling Tool. 
 
 ## Setup
 
