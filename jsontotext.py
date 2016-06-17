@@ -15,7 +15,7 @@ for subdir, dirs, files in os.walk(json_dir):
 
 # create new directory for text files
 text_dir = json_dir+'_txt'
-# os.mkdir(text_dir) 
+os.mkdir(text_dir) 
 
 for json_path in json_paths: 
     # following code is done for each json file 
