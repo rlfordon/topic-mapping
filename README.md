@@ -4,5 +4,6 @@ This is an experimental Python script that will convert JSON outputs from courtl
 
 To use, ensure that you have a directory of json files.  Then, while in the same top-directory that contains the folder of JSON files, run jsontotext.py in the command line.  The result will be a folder of opinion text files. 
 
-Dependencies: 
-lxml
+Note that this script uses the lxml module, so it will be necessary to install that first.
+
+If you have any questions or comments please contact me! 
